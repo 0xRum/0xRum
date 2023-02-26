@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xRum
 - 👀 I’m interested in crypto, learning code, and helping others.
-- 🌱 I’m currently learning Javascript, CSS, HTML.
+- 🌱 I’m currently learning and Interested in API's, React.Js, Javascript, CSS, and HTML. Eventually to pursue Solidity.
 - 💞️ I’m looking to collaborate and contribute to group projects and Open Source projects.
 - 📫 How to reach me <a href="https://twitter.com/0xR_2022"> here.
 
